@@ -4,10 +4,7 @@
 
 A responsive **Amazon homepage clone** built using **HTML5** and **CSS3** to practice front-end web development and layout design. This project is a static clone and does not include backend or JavaScript functionality.
 
-## 🚀 Live Demo
-
-👉 [View Live Website](https://your-live-link.com)  
-👉 [GitHub Repository](https://github.com/your-username/amazon-clone)
+👉 [GitHub Repository](https://github.com/NISHEETGAHLOT/Amazon-Clone)
 
 ---
 
